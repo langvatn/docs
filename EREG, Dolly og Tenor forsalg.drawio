@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T08:38:33.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qytTXPpYsVrQ5e_QgA99" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T08:47:43.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="eXG7aPa0P_BvQpxTQbuw" version="13.9.2" type="github" pages="3">
   <diagram id="mKBCOk_40Fwtn4IHQLCv" name="Dages sitavasjon">
     <mxGraphModel dx="2882" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Forslag til endring (Lettere)" id="pmRKJH4-G-OuQt9-o4z0">
-    <mxGraphModel dx="2882" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2882" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-0" />
         <mxCell id="DWUiPaniXaIiMMzzoJCq-1" parent="DWUiPaniXaIiMMzzoJCq-0" />
@@ -246,9 +246,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="601" y="380" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="70yr8uMdXOhqQhkxHVVm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-21" target="DWUiPaniXaIiMMzzoJCq-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-21" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
           <mxGeometry x="480" y="355" width="40" height="50" as="geometry" />
