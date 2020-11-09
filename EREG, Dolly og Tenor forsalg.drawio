@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T08:33:19.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="zX978CBXnRi9jeViMwdN" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T08:37:48.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="se78HSQivu3zeIIF9ZWx" version="13.9.2" type="github" pages="3">
   <diagram id="mKBCOk_40Fwtn4IHQLCv" name="Dages sitavasjon">
     <mxGraphModel dx="2882" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-18" target="_-oIpFLt-dYBfN5kC6HI-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-18" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
+        <mxCell id="_-oIpFLt-dYBfN5kC6HI-18" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
           <mxGeometry x="480" y="195" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-21" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-16" target="_-oIpFLt-dYBfN5kC6HI-18">
@@ -113,7 +113,7 @@
             <mxPoint x="601" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-30" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
+        <mxCell id="_-oIpFLt-dYBfN5kC6HI-30" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
           <mxGeometry x="480" y="355" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-34" target="_-oIpFLt-dYBfN5kC6HI-36">
@@ -139,13 +139,19 @@
             <mxPoint x="601" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-39" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
+        <mxCell id="_-oIpFLt-dYBfN5kC6HI-39" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
           <mxGeometry x="480" y="515" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-41" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-15" target="jk9cPvH-sgXL4yk-UzXr-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="610" as="sourcePoint" />
-            <mxPoint x="610" y="560" as="targetPoint" />
+        <mxCell id="ByTTpsTfkG7XEp6w6eqI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="ByTTpsTfkG7XEp6w6eqI-0" target="jk9cPvH-sgXL4yk-UzXr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByTTpsTfkG7XEp6w6eqI-0" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
+          <mxGeometry x="720" y="285" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ByTTpsTfkG7XEp6w6eqI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" target="ByTTpsTfkG7XEp6w6eqI-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="311" as="sourcePoint" />
+            <mxPoint x="930" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -157,14 +163,14 @@
         <mxCell id="DWUiPaniXaIiMMzzoJCq-0" />
         <mxCell id="DWUiPaniXaIiMMzzoJCq-1" parent="DWUiPaniXaIiMMzzoJCq-0" />
         <mxCell id="DWUiPaniXaIiMMzzoJCq-2" value="&lt;b&gt;EREG&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
-          <mxGeometry x="920" y="250" width="120" height="120" as="geometry" />
+          <mxGeometry x="1000" y="250" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-4" target="DWUiPaniXaIiMMzzoJCq-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="120" />
-              <mxPoint x="860" y="120" />
+              <mxPoint x="940" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -192,12 +198,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
-          <mxGeometry x="935" y="420" width="90" height="100" as="geometry" />
+          <mxGeometry x="1015" y="420" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-2" target="DWUiPaniXaIiMMzzoJCq-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="650" as="sourcePoint" />
-            <mxPoint x="530" y="600" as="targetPoint" />
+            <mxPoint x="560" y="650" as="sourcePoint" />
+            <mxPoint x="610" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-9" value="&lt;b&gt;Kafka (kø)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
@@ -209,7 +215,7 @@
         <mxCell id="DWUiPaniXaIiMMzzoJCq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-12" target="DWUiPaniXaIiMMzzoJCq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DWUiPaniXaIiMMzzoJCq-12" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
+        <mxCell id="DWUiPaniXaIiMMzzoJCq-12" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
           <mxGeometry x="480" y="195" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-10" target="DWUiPaniXaIiMMzzoJCq-12">
@@ -241,7 +247,10 @@
             <mxPoint x="601" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWUiPaniXaIiMMzzoJCq-21" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
+        <mxCell id="70yr8uMdXOhqQhkxHVVm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-21" target="DWUiPaniXaIiMMzzoJCq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWUiPaniXaIiMMzzoJCq-21" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
           <mxGeometry x="480" y="355" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-23" target="DWUiPaniXaIiMMzzoJCq-25">
@@ -267,10 +276,10 @@
             <mxPoint x="601" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWUiPaniXaIiMMzzoJCq-29" value="Ereg format (kafka)&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
+        <mxCell id="DWUiPaniXaIiMMzzoJCq-29" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
           <mxGeometry x="480" y="515" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DWUiPaniXaIiMMzzoJCq-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-9" target="DWUiPaniXaIiMMzzoJCq-32">
+        <mxCell id="DWUiPaniXaIiMMzzoJCq-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="610" as="sourcePoint" />
             <mxPoint x="720" y="310" as="targetPoint" />
@@ -280,13 +289,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-31" value="Flatfil" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
-          <mxGeometry x="840" y="285" width="40" height="50" as="geometry" />
+          <mxGeometry x="920" y="285" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-32" target="DWUiPaniXaIiMMzzoJCq-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-32" value="Konverterer &lt;b&gt;til&lt;/b&gt;&amp;nbsp;flatfil" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
-          <mxGeometry x="720" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="800" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="70yr8uMdXOhqQhkxHVVm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="70yr8uMdXOhqQhkxHVVm-1" target="DWUiPaniXaIiMMzzoJCq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70yr8uMdXOhqQhkxHVVm-1" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
+          <mxGeometry x="720" y="285" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70yr8uMdXOhqQhkxHVVm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="70yr8uMdXOhqQhkxHVVm-1" target="70yr8uMdXOhqQhkxHVVm-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
