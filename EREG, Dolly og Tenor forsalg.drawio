@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T14:34:46.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BtR5bP-ESJrr-egz-BCv" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T14:36:51.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="EGazuQ3rrf4UTsY4LMPo" version="13.9.2" type="github" pages="3">
   <diagram id="mKBCOk_40Fwtn4IHQLCv" name="Dages sitavasjon">
     <mxGraphModel dx="2882" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -78,9 +78,9 @@
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-16" value="Konverterer &lt;b&gt;fra&lt;/b&gt; flatfil" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="jk9cPvH-sgXL4yk-UzXr-1" vertex="1">
           <mxGeometry x="320" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-18" edge="1">
+        <mxCell id="_-oIpFLt-dYBfN5kC6HI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.025;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-18" target="_-oIpFLt-dYBfN5kC6HI-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="601" y="181" as="targetPoint" />
+            <mxPoint x="540" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-18" value="EREG format &lt;br&gt;(kafka)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" parent="jk9cPvH-sgXL4yk-UzXr-1" vertex="1">
