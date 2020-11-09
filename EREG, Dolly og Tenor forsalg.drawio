@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T08:37:54.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Dj_ayQQQDySHOdRITtwb" version="13.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-09T08:38:33.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qytTXPpYsVrQ5e_QgA99" version="13.9.2" type="github" pages="3">
   <diagram id="mKBCOk_40Fwtn4IHQLCv" name="Dages sitavasjon">
     <mxGraphModel dx="2882" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-38" target="_-oIpFLt-dYBfN5kC6HI-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_-oIpFLt-dYBfN5kC6HI-38" value="Konverterer Format X" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
+        <mxCell id="_-oIpFLt-dYBfN5kC6HI-38" value="Konverterer &lt;b&gt;fra&lt;/b&gt; Format X" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jk9cPvH-sgXL4yk-UzXr-1">
           <mxGeometry x="320" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_-oIpFLt-dYBfN5kC6HI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jk9cPvH-sgXL4yk-UzXr-1" source="_-oIpFLt-dYBfN5kC6HI-39">
@@ -176,7 +176,7 @@
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-37" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Like filer&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DWUiPaniXaIiMMzzoJCq-36">
           <mxGeometry x="-0.2169" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="55" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-3" value="&lt;b&gt;BRREG&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
@@ -268,7 +268,7 @@
         <mxCell id="DWUiPaniXaIiMMzzoJCq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-27" target="DWUiPaniXaIiMMzzoJCq-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DWUiPaniXaIiMMzzoJCq-27" value="Konverterer Format X" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
+        <mxCell id="DWUiPaniXaIiMMzzoJCq-27" value="Konverterer f&lt;b&gt;ra&lt;/b&gt; Format X" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DWUiPaniXaIiMMzzoJCq-1">
           <mxGeometry x="320" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DWUiPaniXaIiMMzzoJCq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DWUiPaniXaIiMMzzoJCq-1" source="DWUiPaniXaIiMMzzoJCq-29">
